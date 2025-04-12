@@ -1,50 +1,43 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/tani2.png
+heading: Apa yang Kami Tawarkan?
+subheading: Support sustainable farming while enjoying a cup  # menghapus semua subheading di index-page.js jikamau di hapus kcuali yg oren
 mainpitch:
-  title: Why Kaldi
+  title: Kenapa AlamTani?
+
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    AlamTani adalah platform untuk semua orang yang peduli dengan pertanian berkelanjutan dan ingin mendukung petani lokal.
+    Kami percaya bahwa pertanian yang baik bukan hanya menghasilkan produk berkualitas, 
+    tetapi juga memberikan dampak positif bagi lingkungan dan kesejahteraan petani.
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
-intro:
+  ✅ Produk Pertanian Berkualitas
+  Kami menyediakan berbagai produk pertanian, mulai dari hasil panen segar, benih unggul, pupuk organik dan non-organik, hingga alat pertanian modern. Semua produk yang dijual di AlamTani berasal dari petani dan produsen terpercaya, memastikan kualitas terbaik bagi konsumen.
+  ✅ Buah Segar Langsung dari Petani
+  Kami menjual berbagai jenis buah-buahan segar langsung dari sumbernya, tanpa perantara yang memperpanjang rantai distribusi. Dengan begitu, konsumen mendapatkan produk dengan kesegaran maksimal, sementara petani mendapatkan harga yang lebih adil.
+  subdescription: >-  #membuat subdescription liat di tempates/index-page.js
+  ✅ Edukasi & Informasi Seputar Pertanian
+  Kami memahami bahwa pertanian bukan hanya tentang menjual produk, tetapi juga tentang berbagi ilmu. AlamTani memiliki blog dan artikel edukatif yang membahas teknologi pertanian terbaru, teknik budidaya yang efektif, strategi pemasaran hasil panen, serta inovasi yang dapat meningkatkan produktivitas petani.
+subdescription: >-  #membuat subdescription liat di tempates/index-page.js
+  AlamTani bukan sekadar sumber informasi, tetapi juga ruang belajar, berbagi, dan berkolaborasi. 
+  Kami percaya bahwa dengan pertanian yang lebih baik, kita bisa menciptakan dunia yang lebih sejahtera. 🌱✨
+
+intro:  
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pupuk.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+       Kami menyediakan berbagai jenis pupuk berkualitas tinggi yang bersumber langsung dari produsen terpercaya dan petani lokal. Mulai dari pupuk organik, pupuk cair, hingga pupuk berbasis teknologi modern, semuanya dirancang untuk mendukung pertumbuhan tanaman yang sehat dan hasil panen yang melimpah. Kami berkomitmen untuk menyediakan produk ramah lingkungan yang membantu meningkatkan produktivitas pertanian.
+    - image: /img/tanaman.webp
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Kami menawarkan berbagai jenis tanaman yang telah dipilih dengan cermat untuk memenuhi kebutuhan penghobi hingga pelaku agribisnis. Baik Anda seorang pemula yang baru memulai hobi berkebun atau seorang petani berpengalaman, kami menyediakan beragam tanaman mulai dari bibit buah,hingga tanaman herbal yang siap tumbuh subur di lingkungan Anda.
+    - image: /img/buah.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Kami juga menawarkan beragam buah-buahan segar yang dipanen langsung dari sumber terpercaya. Dengan menjaga kualitas dan kesegarannya, kami menyediakan buah untuk konsumsi pribadi, bisnis kuliner, hingga keperluan grosir. Setiap buah dipilih dengan cermat dan didistribusikan dengan standar tinggi agar tetap segar, bernutrisi, dan siap dinikmati kapan saja.
+    - image: /img/pertanian.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Kami juga menyediakan blog edukasi seputar pertanian yang menyajikan berbagai informasi bermanfaat bagi petani, penghobi, dan pelaku agribisnis. Dari teknik bercocok tanam yang efisien, tips perawatan tanaman, hingga inovasi terbaru di dunia pertanian, kami hadir untuk membantu Anda memahami dan mengembangkan potensi pertanian dengan lebih baik.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

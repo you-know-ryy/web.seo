@@ -1,19 +1,21 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Tentang AlamTani.id
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Di era digital ini, pertanian bukan hanya tentang menanam dan memanen—ini tentang inovasi, konektivitas, dan keberlanjutan. AlamTani.id hadir sebagai platform marketplace pertanian yang memungkinkan petani, pelaku usaha, dan konsumen untuk terhubung dalam satu ekosistem digital. Selain itu, kami juga menyediakan blog edukatif untuk memberikan wawasan dan informasi terbaru tentang dunia pertanian. Kami juga berfokus pada penjualan buah-buahan segar, langsung dari petani ke konsumen, memastikan kualitas terbaik dengan harga yang bersaing.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Apa yang Kami buat?
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+- **Marketplace Pertanian** Marketplace Pertanian – Mempermudah transaksi jual beli hasil pertanian, benih, pupuk, alat pertanian, 
+                            serta buah-buahan segar dalam satu platform digital.
+- **Edukasi & Informasi** –Edukasi & Informasi – Menyediakan blog dengan artikel, panduan, dan 
+                           berita terbaru seputar pertanian modern dan tradisional.
+- **Distribusi Buah Berkualitas** Distribusi Buah Berkualitas – Menawarkan berbagai jenis buah-buahan segar dari petani langsung ke konsumen, dengan sistem distribusi yang efisien dan terpercaya.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Kenapa AlamTani.id?
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+✅ **Marketplace Terlengkap** – Tempat terbaik untuk membeli dan menjual produk pertanian, termasuk buah-buahan segar dengan transaksi yang aman dan mudah.
+✅ **Sumber Informasi Terpercaya** – Blog pertanian dengan konten berkualitas, berbasis riset, dan pengalaman langsung di lapangan..
+✅ **Buah Segar Langsung dari Petani** – Menjamin kualitas dan harga terbaik dengan sistem distribusi yang efisien.
+
