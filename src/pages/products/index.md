@@ -5,7 +5,7 @@ title: AlamTani Produk
 image: /img/produk1.png
 heading: Produk Pertanian Berkualitas
 description: >-
- AlamTani.id adalah platform bagi mereka yang peduli dengan kualitas dan keberlanjutan pertanian. Kami menghadirkan berbagai produk pertanian terbaik, mulai dari bibit unggul, pupuk berkualitas, hingga buah-buahan segar yang langsung diperoleh dari petani.🌱✨
+ AlamTani.ID adalah platform bagi mereka yang peduli dengan kualitas dan keberlanjutan pertanian. Kami menghadirkan berbagai produk pertanian terbaik, mulai dari bibit unggul, pupuk berkualitas, hingga buah-buahan segar yang langsung diperoleh dari petani.🌱✨
 intro:
   blurbs:
     - image: /img/bibit.png
