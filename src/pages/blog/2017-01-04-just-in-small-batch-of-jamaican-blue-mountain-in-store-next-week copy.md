@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Tips Sukses Menanam Durian Musang King  
 date: 2025-04-06T10:00:00.000Z  
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/durian2.jpg
 description:  Durian Musang King terkenal dengan rasa legit dan aromanya yang khas. Ingin sukses menanamnya? Simak panduan lengkap mulai dari pemilihan bibit hingga perawatan intensif berikut ini!  
 tags:
   - durian  
@@ -11,7 +11,7 @@ tags:
   - pertanian  
   - budidaya  
 ---
-![musangking](/img/flavor_wheel.jpg)
+![musangking](/img/durian2.jpg)
 
 Durian Musang King, atau sering disebut Raja Durian, menjadi primadona di dunia buah tropis. Aromanya yang khas, daging buah berwarna kuning emas, dan rasa manis legit sedikit pahit menjadikannya salah satu varietas durian paling dicari. Tak heran, banyak petani dan penghobi tanaman tertarik membudidayakan durian Musang King untuk konsumsi sendiri maupun bisnis.
 
