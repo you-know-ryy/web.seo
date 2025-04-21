@@ -1,34 +1,141 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+templateKey: blog-post
+title: Cara Menanam Cabai di Rumah
+date: 2025-04-14T10:00:00.000Z  
+featuredpost: false
+featuredimage: /img/cabai.jpg
+description: Ingin punya panen cabai segar di rumah? Yuk, simak panduan lengkap cara menanam cabai di rumah mulai dari pemilihan bibit, media tanam, hingga perawatannya.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - cabai
+  - pertanian
+  - tanaman sayur
+  - urban farming
+---
+![cabai](/img/cabai.jpg)
+
+Menanam cabai di rumah itu sebenarnya mudah dan menyenangkan, lho! Selain bisa panen sendiri untuk kebutuhan dapur, menanam cabai juga bisa jadi aktivitas menyegarkan di tengah kesibukan harian. Dengan sedikit ruang dan perawatan yang konsisten, kamu bisa punya tanaman cabai subur yang siap panen.
+
+Berikut panduan lengkap cara menanam cabai di rumah yang bisa kamu ikuti, baik untuk pemula maupun yang sudah pernah berkebun.
+
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+## 1. Pilih Jenis Cabai yang Ingin Ditanam
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Pertama, tentukan dulu jenis cabai yang ingin kamu tanam. Beberapa jenis yang umum dan cocok ditanam di rumah antara lain:
 
-## A little history
+- **Cabai rawit**: kecil, pedas, dan tahan lama di pohon.
+- **Cabai merah besar**: cocok untuk masakan, pertumbuhannya stabil.
+- **Cabai keriting**: panjang, keriting, dan cocok untuk sambal.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Pilih yang sesuai selera dan kebutuhan dapurmu.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+---
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## 2. Siapkan Bibit yang Berkualitas
 
-## What you need to know before trying
+Kamu bisa menggunakan biji dari cabai segar yang dibeli di pasar atau membeli benih di toko pertanian. Jika dari cabai segar:
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+1. Pilih cabai yang matang sempurna.
+2. Belah dan ambil bijinya.
+3. Jemur biji di tempat teduh selama 2–3 hari hingga kering.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Kalau ingin hasil yang lebih terjamin, beli benih unggul yang sudah dikemas.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+---
+
+## 3. Gunakan Media Tanam yang Subur
+
+Cabai menyukai media tanam yang gembur dan kaya nutrisi. Campuran media tanam ideal:
+
+- 2 bagian tanah gembur
+- 1 bagian kompos/pupuk kandang
+- 1 bagian sekam bakar atau pasir
+
+Pastikan media tidak mudah becek, karena akar cabai rentan busuk jika terlalu lembap.
+
+---
+
+## 4. Pilih Pot atau Wadah yang Sesuai
+
+Gunakan pot dengan diameter minimal 20 cm dan tinggi 25–30 cm. Bisa juga pakai polybag atau ember bekas, asalkan ada lubang drainase di bawahnya.
+
+Satu pot cukup untuk satu tanaman agar pertumbuhan optimal.
+
+---
+
+## 5. Semai Benih Cabai
+
+Sebelum ditanam di pot besar, benih perlu disemai dulu:
+
+1. Siapkan tray semai atau wadah datar berisi media tanam ringan.
+2. Taburkan benih dan tutup tipis dengan tanah.
+3. Siram ringan setiap hari.
+4. Simpan di tempat teduh tapi terang.
+
+Benih akan tumbuh dalam 5–7 hari. Setelah 2–3 minggu, dan bibit sudah punya 3–4 helai daun, baru pindahkan ke pot.
+
+---
+
+## 6. Tanam Bibit ke Pot Utama
+
+Lakukan penanaman bibit saat pagi atau sore hari agar tidak layu.
+
+1. Buat lubang tanam di tengah pot.
+2. Pindahkan bibit beserta sebagian media semainya.
+3. Tutup dengan media tanam dan padatkan perlahan.
+4. Siram secukupnya.
+
+Letakkan pot di tempat yang mendapat sinar matahari minimal 6 jam sehari.
+
+---
+
+## 7. Perawatan Rutin Tanaman Cabai
+
+Tanaman cabai butuh perhatian rutin agar tumbuh subur:
+
+### Penyiraman
+- Siram 1–2 kali sehari tergantung cuaca.
+- Hindari air menggenang.
+
+### Pemupukan
+- Gunakan pupuk NPK daun atau organik cair seminggu sekali.
+- Setelah berbunga, tambahkan pupuk tinggi kalium untuk merangsang buah.
+
+### Penyiangan
+- Cabut gulma yang tumbuh di sekitar pot agar tidak merebut nutrisi.
+
+### Penopang
+- Pasang ajir (tongkat bambu) untuk menopang tanaman agar tidak roboh.
+
+---
+
+## 8. Waspadai Hama dan Penyakit
+
+Beberapa masalah yang umum muncul:
+
+- **Kutu daun & trips**: semprot larutan bawang putih atau neem oil.
+- **Layu bakteri/jamur**: pastikan drainase baik, jangan terlalu lembap.
+- **Ulat & belalang**: ambil manual atau semprot insektisida nabati.
+
+Jagalah kebersihan lingkungan sekitar tanaman.
+
+---
+
+## 9. Panen Cabai dengan Bahagia
+
+Cabai bisa mulai dipanen 2–3 bulan setelah tanam. Ciri cabai siap panen:
+
+- Warna sudah merah/kuning sempurna.
+- Buah keras dan padat.
+
+Panen pagi hari dan potong dengan gunting agar tidak merusak cabang.
+
+---
+
+## Penutup
+
+Menanam cabai di rumah itu menyenangkan dan bermanfaat. Selain hemat biaya dapur, kamu juga bisa menikmati sensasi memetik hasil kebun sendiri. Dengan perawatan yang tidak terlalu sulit dan lahan minimal, siapa pun bisa mulai bertanam cabai hari ini.
+
+Kalau kamu butuh benih cabai unggul, pupuk organik, atau alat berkebun lainnya, jangan ragu mampir ke [**AlamTani.id**](https://alamtani.id). Kami siap mendukung pertanian rumahanmu jadi lebih seru dan produktif!
+
+
