@@ -3,6 +3,10 @@ module.exports = {
     title: "AlamTani.ID",
     description:
       "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      // ubah bagian ini
+    author:"Situs resmi AlamTani.ID, platform edukatif dan informatif untuk petani modern. Dibangun dengan Gatsby dan Netlify CMS, mengikuti arsitektur JAMstack untuk kecepatan, keamanan, dan efisiensi.",
+    keywords:"pertanian,alat pertanian,irigasi,petani kecil,pertanian organik,teknologi pertanian",
+    url:"https://alamtani.my.id",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
