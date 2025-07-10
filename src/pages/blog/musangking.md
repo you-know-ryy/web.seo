@@ -6,10 +6,12 @@ featuredpost: false
 featuredimage: /img/durian2.jpg
 description:  Durian Musang King terkenal dengan rasa legit dan aromanya yang khas. Ingin sukses menanamnya? Simak panduan lengkap mulai dari pemilihan bibit hingga perawatan intensif berikut ini!  
 tags:
-  - durian  
-  - musang king  
-  - pertanian  
-  - budidaya  
+  - tips menanam durian musang king
+  - cara menanam bibit durian kaki 3
+  - bibit durian musang king kaki 3
+  - bibit durian musang
+  - musang king durian
+  -
 ---
 ![musangking](/img/durian2.jpg)
 
@@ -205,5 +207,3 @@ Menanam durian Musang King memang bukan pekerjaan mudah. Tapi, dengan kesabaran,
 Jangan lupa, selalu pantau perkembangan pohon, konsultasikan jika perlu, dan terus belajar dari pengalaman. Kalau kamu butuh bibit, pupuk, atau panduan bertani lainnya, langsung saja ke [**AlamTani.id**](https://alamtani.id) – solusi lengkap pertanian modern kamu!
 
 ---
-
-Kalau kamu butuh versi ini dalam format markdown lengkap atau ingin saya masukkan ke sistem blog kamu (seperti Netlify CMS), tinggal bilang ya!

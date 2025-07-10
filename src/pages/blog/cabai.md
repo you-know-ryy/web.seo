@@ -6,10 +6,12 @@ featuredpost: false
 featuredimage: /img/cabai.jpg
 description: Ingin punya panen cabai segar di rumah? Yuk, simak panduan lengkap cara menanam cabai di rumah mulai dari pemilihan bibit, media tanam, hingga perawatannya.
 tags:
-  - cabai
-  - pertanian
-  - tanaman sayur
-  - urban farming
+  - cara menanam cabe di pekarangan rumah
+  - cara menanam cabe di belakang rumah
+  - cara tanam cabe cepat
+  - cara tanam cabe biar tidak layu
+  - cara menanam cabe dengan tisu
+  - cara menanam cabe besar dari biji
 ---
 ![cabai](/img/cabai.jpg)
 

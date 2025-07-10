@@ -6,10 +6,12 @@ featuredpost: false
 featuredimage: /img/irigasi.png
 description:  Irigasi tidak harus mahal dan rumit. Artikel ini membahas berbagai teknik irigasi sederhana yang hemat biaya namun tetap efektif, khususnya bagi petani kecil di daerah pedesaan.
 tags:
-  - irigasi
-  - petani kecil
-  - pertanian
-  - hemat air
+  - irigasi tetes untuk sayuran
+  - teknik irigasi tetes
+  - teknologi irigasi pertanian
+  - teknik irigasi hemat air
+  - irigasi kendi
+  - tuliskan metode irigasi dalam budidaya tanaman
 ---
 ![irigasi sederhana](/img/irigasi.png)
 
